@@ -1,21 +1,19 @@
 # ⚡ 0xBlackCanary 
 
-### 🛡️ Aspirante a Analista de Ciberseguridad
-**Especialista en Gestión de Datos e IT**
+### 🛡️ Aspirante a Analista de Ciberseguridad | Especialista en Datos e IT
 
 ---
 
-> [!IMPORTANT]
-> ### 🔍 [ACCEDER A MI CV TÉCNICO](https://0xblackcanary.github.io/cv/)
-> Interfaz operativa en modo terminal.
+> [!TIP]
+> ### 🔍 [ACCEDER A MI CV TÉCNICO (TERMINAL OPERATIVA)](https://0xblackcanary.github.io/cv/)
+> Haz clic arriba para ver mi experiencia, stack técnico y formación en modo ciberpunk.
 
 ---
 
-### 🛠️ Proyectos Destacados
-* **[Canary-USB-Scanner](https://github.com/0xBlackCanary/Canary-USB-Scanner):** Monitorización de hardware y detección de amenazas USB en tiempo real. 
+### 🛠️ Skills en proceso de carga...
+- **Security:** Google Dorking, OSINT, Gestión de Datos.
+- **Systems:** Windows OS, CRM Zoho, MS Office Avanzado.
+- **Status:** Estudiando Ciberseguridad Nivel Junior (IFCT0109).
 
 ---
-
-<p align="right">
-  <i>"El canario no canta, detecta."</i> 🦜💚
-</p>
+*Ubicación: Alicante, España | "El canario no canta, detecta."*
