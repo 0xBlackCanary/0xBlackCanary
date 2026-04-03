@@ -1,27 +1,27 @@
-# ⚡ 0xBlackCanary 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1aff8c&height=200&section=header&text=0xBlackCanary&fontSize=80&animation=fadeIn&fontColor=0d1a12" alt="Banner Principal" />
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://0xblackcanary.github.io/cv/">
-    <img src="https://img.shields.io/badge/ACCEDER%20AL%20CV%20TÉCNICO-TERMINAL%20ACTIVA-1aff8c?style=for-the-badge&logo=target&logoColor=000" alt="CV Button" />
+    <img src="https://img.shields.io/badge/ACCEDER%20AL%20CV%20TÉCNICO-TERMINAL%20ACTIVA-1aff8c?style=for-the-badge&logo=target&logoColor=000" height="40" alt="CV Button" />
   </a>
 </p>
 
-### 🛡️ Aspirante a Analista de Ciberseguridad | Especialista en Gestión de Datos e IT
+---
+
+## 🛡️ ESTATUS DEL SISTEMA: ANALISTA EN FORMACIÓN
+> **Especialista en Gestión de Datos e IT | Aspirante a Ciberseguridad** > *Ubicación: Alicante, España*
 
 ---
 
-## 📊 Panel de Control de Actividad
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xBlackCanary&show_icons=true&theme=tokyonight&bg_color=0d1a12&title_color=1aff8c&text_color=a0d8b8&icon_color=1aff8c&border_color=1aff8c" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlackCanary&layout=compact&theme=tokyonight&bg_color=0d1a12&title_color=1aff8c&text_color=a0d8b8&border_color=1aff8c" alt="Lenguajes más usados" />
-</p>
-
-### 📈 Rendimiento del Sistema
-![Gráfico de actividad](https://github-readme-streak-stats.herokuapp.com/?user=0xBlackCanary&theme=tokyonight&background=0d1a12&fire=1aff8c&ring=1aff8c&sideNums=a0d8b8&sideLabels=a0d8b8&currStreakLabel=1aff8c&currStreakNum=1aff8c&border=1aff8c)
+### 🛠️ PROYECTOS OPERATIVOS
+| Proyecto | Descripción | Estado |
+| :--- | :--- | :--- |
+| **[Canary-USB-Scanner](https://github.com/0xBlackCanary/Canary-USB-Scanner)** | Monitorización de hardware y detección de amenazas USB. | `ESTABLE` |
+| **[CV-Cyberpunk](https://0xblackcanary.github.io/cv/)** | Interfaz de currículum técnico en modo terminal. | `ONLINE` |
 
 ---
-*Ubicación: Alicante, España | "El canario no canta, detecta."*
+<p align="right">
+  <i>"El canario no canta, detecta."</i> 🦜💚
+</p>
