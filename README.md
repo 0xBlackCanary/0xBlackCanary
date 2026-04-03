@@ -1,16 +1,19 @@
-## Hi there 👋
+# ⚡ 0xBlackCanary 
 
-<!--
-**0xBlackCanary/0xBlackCanary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspirante a Analista de Ciberseguridad | Especialista en Datos e IT
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [!TIP]
+> ### 🔍 [ACCEDER A MI CV TÉCNICO (TERMINAL OPERATIVA)](https://0xblackcanary.github.io/cv/)
+> Haz clic arriba para ver mi experiencia, stack técnico y formación en modo ciberpunk.
+
+---
+
+### 🛠️ Skills en proceso de carga...
+- **Security:** Google Dorking, OSINT, Gestión de Datos.
+- **Systems:** Windows OS, CRM Zoho, MS Office Avanzado.
+- **Status:** Estudiando Ciberseguridad Nivel Junior (IFCT0109).
+
+---
+*Ubicación: Alicante, España | "El canario no canta, detecta."*
