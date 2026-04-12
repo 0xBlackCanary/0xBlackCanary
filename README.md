@@ -1,13 +1,13 @@
 # 🛠️ Mis Proyectos Destacados
 
-<a href="https://github.com/0xBlackCanary/0xBlackCanary-USB">
-  <img src="PEGA_AQUÍ_EL_ENLACE_DE_LA_IMAGEN" alt="USB Scanner Project" width="100%">
+<a href="https://github.com/0xBlackCanary/Canary-USB-Scanner">
+  <img src="https://github.com/0xBlackCanary/Canary-USB-Scanner/blob/main/Logo%20CANARY%20USB%20SENTINEL%20v1.3.jpg?raw=true" alt="USB Scanner Project" width="100%">
 </a>
 
 <br>
 
 <a href="https://github.com/0xBlackCanary/Manual-de-Explotaci-n-Peque-as-Mentirosas">
-  <img src="ENLACE_IMAGEN_ESCUDO_O_MANUAL" alt="Writeup Project" width="100%">
+  <img src="https://raw.githubusercontent.com/0xBlackCanary/Manual-de-Explotaci-n-Peque-as-Mentirosas/main/logo_manual.png" alt="Writeup Project" width="100%">
 </a>
 
 ---
