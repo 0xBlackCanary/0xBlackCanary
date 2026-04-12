@@ -19,16 +19,15 @@
 ---
 *Ubicación: Alicante, España | "El canario no canta, detecta."*
 
+---
 # 🛠️ Mis Proyectos Destacados
 
 <a href="https://github.com/0xBlackCanary/Canary-USB-Scanner">
-  <img src="https://github.com/0xBlackCanary/Canary-USB-Scanner/blob/main/Logo%20CANARY%20USB%20SENTINEL%20v1.3.jpg?raw=true" alt="USB Scanner Project" width="100%">
+  <img src="https://github.com/0xBlackCanary/Canary-USB-Scanner/raw/main/Logo%20CANARY%20USB%20SENTINEL%20v1.3.jpg" alt="USB Scanner Project" width="100%">
 </a>
 
 <br>
 
 <a href="https://github.com/0xBlackCanary/Manual-de-Explotaci-n-Peque-as-Mentirosas">
-  <img src="https://raw.githubusercontent.com/0xBlackCanary/Manual-de-Explotaci-n-Peque-as-Mentirosas/main/logo_manual.png" alt="Writeup Project" width="100%">
+  <img src="https://github.com/0xBlackCanary/Manual-de-Explotaci-n-Peque-as-Mentirosas/blob/main/Write-up%20Pequenas_Mentirosas.jpg?raw=true" alt="Writeup Project" width="100%">
 </a>
-
----
