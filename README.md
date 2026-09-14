@@ -35,4 +35,4 @@
 
 Mantente al tanto de mis análisis, investigaciones y resúmenes sobre criptografía, OSINT y el búnker tecnológico.
 
-* **14 Sep 2026** — [El Caos que Protege la Red: Criptografía y las Lámparas de Lava de Cloudflare](./blog/2026-09-14-cloudflare-lavarand.md) 🔮
+* **14 Sep 2026** — [El Caos que Protege la Red: Criptografía y las Lámparas de Lava de Cloudflare](https://github.com) 🔮
