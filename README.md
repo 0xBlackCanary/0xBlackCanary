@@ -14,7 +14,7 @@
 ### 🛠️ Skills en proceso de carga...
 - **Security:** Google Dorking, OSINT, Gestión de Datos.
 - **Systems:** Windows OS, CRM Zoho, MS Office Avanzado.
-- **Status:** Analista de Ciberseguridad Nivel Junior.
+- **Status:** Analista de Ciberseguridad | Pentesting & Red Team
 
 ---
 *Ubicación: Alicante, España | "El canario no canta, detecta."*
