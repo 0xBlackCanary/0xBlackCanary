@@ -13,7 +13,7 @@
 ### 🚀 Perfil Profesional
 Profesional con sólida trayectoria en gestión administrativa, automatización ofimática y tratamiento avanzado de bases de datos estructuradas. Especializada como **Analista de Ciberseguridad Junior**, con foco directo en la Defensa en Profundidad, el bastionado de endpoints (*hardening*) y el aseguramiento de la integridad de la información bajo entornos Windows y Linux.
 
-🌐 **[ACCEDER A MI CV TÉCNICO (TERMINAL OPERATIVA)](https://github.io)**
+🌐 **[➔ ACCEDER A MI CV TÉCNICO (TERMINAL OPERATIVA)](https://github.io)**
 
 ---
 
@@ -23,7 +23,7 @@ Profesional con sólida trayectoria en gestión administrativa, automatización 
 - **Hardening:** Bastionado de endpoints locales, segregación estricta de privilegios, purga de telemetría y aseguramiento de la confidencialidad del núcleo del sistema operativo.
 - **Auditoría Perimetral:** Reconocimiento pasivo mediante fuentes abiertas (OSINT), técnicas avanzadas de Google Dorking y análisis forense local de sockets y conexiones de red en tránsito.
 - **Seguridad Inalámbrica:** Securización de interfaces de radio local, inhabilitación del protocolo vulnerable WPS y despliegue defensivo de switches de Capa 2 basados en reciclaje de hardware residencial (*Rogue DHCP Server Prevention*).
-- **Cumplimiento Legal:** Sanitización persistente de soportes de almacenamiento magnético (*Zero-fill*), destrucción segura de documentación sensible y adaptación técnica de portales web bajo normativas RGPD y LSSI-CE.
+- **Cumplimiento Legal:** Sanitización de soportes de almacenamiento magnético (*Zero-fill*), destrucción segura de documentación sensible y adaptación técnica de portales web bajo normativas RGPD y LSSI-CE.
 
 #### 💻 Software & Entornos Operativos
 - **Sistemas:** Microsoft Windows OS, Windows Server Environment, Linux Core.
@@ -40,7 +40,7 @@ Profesional con sólida trayectoria en gestión administrativa, automatización 
 ### 📂 Laboratorio de Explotación & Proyectos
 
 *   **[Canary-USB-Scanner](https://github.com):** Script especializado en la auditoría perimetral automática y el análisis forense local de puertos y unidades de almacenamiento persistente USB.
-*   **[Writeup: Pequeñas Mentirosas (Docker Labs)](https://github.com):** Manual técnico detallado de intrusión y explotación de vulnerabilidades paso a paso sobre el entorno controlado de laboratorio "Pequeñas Mentirosas".
+*   **[Writeup: Pequeñas Mentirosas](https://github.com):** Manual técnico detallado de intrusión y explotación de vulnerabilidades paso a paso sobre el entorno controlado de laboratorio "Pequeñas Mentirosas" *(temporalmente alojado en tu nodo base)*.
 
 ---
 
