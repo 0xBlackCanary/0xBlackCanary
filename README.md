@@ -1,7 +1,7 @@
 ## 📄 Mi currículum
 # ⚡ 0xBlackCanary 
 
-### 🛡️ Aspirante a Analista de Ciberseguridad | Especialista en Datos e IT
+### 🛡️ Analista de Ciberseguridad | Especialista en Datos e IT
 
 ---
 
