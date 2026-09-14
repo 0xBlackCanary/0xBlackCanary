@@ -14,7 +14,7 @@
 ### 🛠️ Skills en proceso de carga...
 - **Security:** Google Dorking, OSINT, Gestión de Datos.
 - **Systems:** Windows OS, CRM Zoho, MS Office Avanzado.
-- **Status:** Estudiando Ciberseguridad Nivel Junior (IFCT0109).
+- **Status:** Analista de Ciberseguridad Nivel Junior.
 
 ---
 *Ubicación: Alicante, España | "El canario no canta, detecta."*
