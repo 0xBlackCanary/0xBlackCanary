@@ -1,3 +1,7 @@
+# 📡 [ 0xBlackCanary // AUDITORÍA & RED TEAM ]
+
+Bienvenido a mi centro de operaciones digital. Soy Analista de Ciberseguridad enfocada en el bastionado defensivo, análisis de amenazas y pentesting práctico.
+
 ## 📄 Mi currículum
 # ⚡ 0xBlackCanary 
 
