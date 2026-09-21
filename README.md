@@ -1,49 +1,63 @@
-# 📡 [ 0xBlackCanary // AUDITORÍA & RED TEAM ]
+<div align="center">
 
-Bienvenido a mi centro de operaciones digital. Soy Analista de Ciberseguridad enfocada en el bastionado defensivo, análisis de amenazas y pentesting práctico.
+![Header](https://capsule-render.vercel.app/api?type=transparent&fontColor=1aff8c&fontSize=50&height=90&width=730&text=0xBlackCanary&animation=fadeIn)
 
-## 📄 Mi currículum
-# ⚡ 0xBlackCanary 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=1AFF8C&center=true&vCenter=true&width=600&lines=Analista+de+Ciberseguridad+Junior;Especialista+en+Gesti%C3%B3n+de+Datos;OSINT+%7C+Hardening+%7C+RGPD;%22El+canario+no+canta%2C+detecta.%22)](https://github.com/0xBlackCanary)
 
-### 🛡️ Analista de Ciberseguridad | Especialista en Datos e IT
-
----
-
-> [!TIP]
-> ### 🔍 [ACCEDER A MI CV TÉCNICO (TERMINAL OPERATIVA)](https://0xblackcanary.github.io/cv/)
-> Haz clic arriba para ver mi experiencia, stack técnico y formación en modo ciberpunk.
+</div>
 
 ---
 
-### 🛠️ Skills en proceso de carga...
-- **Security:** Google Dorking, OSINT, Gestión de Datos.
-- **Systems:** Windows OS, CRM Zoho, MS Office Avanzado.
-- **Status:** Analista de Ciberseguridad | Pentesting & Red Team
+### 🛡️ Sobre mí
+Profesional en transición hacia la ciberseguridad defensiva.
+Mentalidad Zero Trust. Enfoque en integridad de datos y hardening.
+Ubicación: Alicante, España | Disponibilidad: Inmediata
 
 ---
-*Ubicación: Alicante, España | "El canario no canta, detecta."*
+
+### 🔧 Stack & Herramientas
+
+![OSINT](https://img.shields.io/badge/OSINT-1aff8c?style=for-the-badge&logo=searxng&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
 ---
-# 🛠️ Mis Proyectos Destacados
 
-<a href="https://github.com/0xBlackCanary/Canary-USB-Scanner">
-  <img src="https://github.com/0xBlackCanary/Canary-USB-Scanner/raw/main/Logo%20CANARY%20USB%20SENTINEL%20v1.3.jpg" alt="USB Scanner Project" width="100%">
-</a>
+### 🔐 Áreas de especialización
 
-<br>
+![Hardening](https://img.shields.io/badge/Endpoint_Hardening-1aff8c?style=flat-square&logoColor=black)
+![RGPD](https://img.shields.io/badge/RGPD_Compliance-cc44ff?style=flat-square)
+![IAM](https://img.shields.io/badge/Gestión_de_Identidades-0078D6?style=flat-square)
+![Protección de datos](https://img.shields.io/badge/Protección_de_Datos-F05032?style=flat-square)
+![Wi-Fi Security](https://img.shields.io/badge/Wi--Fi_Security-FCC624?style=flat-square&logoColor=black)
 
-<a href="https://github.com/0xBlackCanary/Manual-de-Explotaci-n-Peque-as-Mentirosas">
-  <img src="https://github.com/0xBlackCanary/Manual-de-Explotaci-n-Peque-as-Mentirosas/blob/main/Write-up%20Pequenas_Mentirosas.jpg?raw=true" alt="Writeup Project" width="100%">
-</a>
+---
 
-* # ✍️ Mi Bitácora de Ciberseguridad (Blog)
+### 📊 GitHub Stats
 
-Mantente al tanto de mis análisis, investigaciones y resúmenes sobre criptografía, OSINT y el búnker tecnológico.
+<div align="center">
 
- ## 🗂️Entradas Disponibles
-* 🔮 **14 Sep 2026** — [El Caos que Protege la Red: Criptografía y las Lámparas de Lava de Cloudflare](https://github.com/0xBlackCanary/blog/blob/main/2026-09-14-cloudflare-lavarand.md) 🔮
-* 💀 **14 Sep 2026** — [OWASP Top 10 Deep Dive: Rompiendo la Lógica de las Bases de Datos con SQLi](https://github.com/0xBlackCanary/blog/blob/main/2026-09-14-owasp-top10-sqli.md) 💀
-* 📺 **15 Sep 2026** — [Bastionado IoT: Convirtiendo tu Smart TV en un Entorno Zero Trust](https://github.com/0xBlackCanary/blog/blob/main/2026-09-15-bastionado-iot-smart-tv.md) 📺
-* ⚠️ **16 Sep 2026** — [Ciberseguridad y Soberanía Digital: Implicaciones del marco eIDAS2 en la UE](https://github.com/0xBlackCanary/blog/blob/main/2026-09-16-privacidad-eidas2-dni-ip.md) 🇪🇺⚠️
-* 🦜🛡️ **18 Sep 2026** — [Canary Tokens: El Arte del Engaño y la Detección Temprana en la Red](https://github.com/0xBlackCanary/blog/blob/main/2026-09-18-canary-tokens-trampas-defensivas.md) 🦜🛡️
+![GitHub Stats](https://github-readme-stats-five-sigma-99.vercel.app/api?username=0xBlackCanary&show_icons=true&theme=tokyonight&title_color=1aff8c&icon_color=1aff8c&hide_border=true&bg_color=00000000&count_private=true)
 
+</div>
+
+---
+
+### 📡 Contacto & Links
+
+[![CV Técnico](https://img.shields.io/badge/CV_Técnico-Terminal_Operativa-1aff8c?style=for-the-badge&logo=githubpages&logoColor=black)](https://0xblackcanary.github.io/cv/)
+[![Telegram](https://img.shields.io/badge/Telegram-StopBulos-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StopBulosStopEstafasEnLaRed/)
+[![Email](https://img.shields.io/badge/Email-Contacto_profesional-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TUCORREO@AQUI.com)
+
+---
+
+<div align="center">
+
+*[ 0xBlackCanary // NODE_ID: UNKNOWN // STATUS: ACTIVE // 2026 ]*
+
+</div>
