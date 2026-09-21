@@ -52,7 +52,7 @@ Ubicación: Alicante, España | Disponibilidad: Inmediata
 
 [![CV Técnico](https://img.shields.io/badge/CV_Técnico-Terminal_Operativa-1aff8c?style=for-the-badge&logo=githubpages&logoColor=black)](https://0xblackcanary.github.io/cv/)
 [![Telegram](https://img.shields.io/badge/Telegram-StopBulos-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StopBulosStopEstafasEnLaRed/)
-[![Email](https://img.shields.io/badge/Email-Contacto_profesional-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TUCORREO@AQUI.com)
+[![Email](https://img.shields.io/badge/Email-Contacto_profesional-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguezl.profesional@gmail.com)
 
 ---
 
