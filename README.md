@@ -31,7 +31,7 @@ Ubicación: Alicante, España | Disponibilidad: Inmediata
 ### 🔐 Áreas de especialización
 
 ![Hardening](https://img.shields.io/badge/Endpoint_Hardening-1aff8c?style=flat-square&logoColor=black)
-![RGPD](https://img.shields.io/badge/RGPD_Compliance-cc44ff?style=flat-square)
+![RGPD](https://gdpr-info.eu)
 ![IAM](https://img.shields.io/badge/Gestión_de_Identidades-0078D6?style=flat-square)
 ![Protección de datos](https://img.shields.io/badge/Protección_de_Datos-F05032?style=flat-square)
 ![Wi-Fi Security](https://img.shields.io/badge/Wi--Fi_Security-FCC624?style=flat-square&logoColor=black)
