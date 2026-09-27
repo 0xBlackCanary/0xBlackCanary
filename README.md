@@ -17,7 +17,7 @@ Ubicación: Alicante, España | Disponibilidad: Inmediata
 
 ### 🔧 Stack & Herramientas
 
-[![OSINT Framework](https://img.shields.io/badge/OSINT-Framework-blue?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://osintframework.com/)
+[![OSINT](https://img.shields.io/badge/OSINT-Framework-blue?style=for-the-badge&logo=data:image/svg+xml;base64,)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
