@@ -33,7 +33,7 @@ Ubicación: Alicante, España | Disponibilidad: Inmediata
 ![Hardening](https://img.shields.io/badge/Endpoint_Hardening-1aff8c?style=flat-square&logoColor=black)
 [![RGPD](https://img.shields.io/badge/RGPD_BOE-cc44ff?style=flat-square)](https://www.boe.es/biblioteca_juridica/publicacion.php?id=PUB-PB-2026-143)
 ![IAM](https://img.shields.io/badge/Gestión_de_Identidades-0078D6?style=flat-square)
-![Protección de datos](https://img.shields.io/badge/Protección_de_Datos-F05032?style=flat-square)
+[![Protección de datos](https://img.shields.io/badge/Protección_de_Datos-F05032?style=flat-square)](https://www.aepd.es/)
 ![Wi-Fi Security](https://img.shields.io/badge/Wi--Fi_Security-FCC624?style=flat-square&logoColor=black)
 
 ---
