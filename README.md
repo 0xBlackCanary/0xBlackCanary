@@ -58,6 +58,7 @@ Ubicación: Alicante, España | Disponibilidad: Inmediata
 ---
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xBlackCanary.0xBlackCanary&left_color=black&right_color=1aff8c&left_text=Visitas+al+bunker" alt="Visitas"/>
 <img src="https://raw.githubusercontent.com/0xBlackCanary/0xBlackCanary/output/github-snake-dark.svg" alt="Snake animation"/>
 
 *[ 0xBlackCanary // NODE_ID: UNKNOWN // STATUS: ACTIVE // 2026 ]*
