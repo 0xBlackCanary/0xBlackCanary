@@ -58,7 +58,7 @@ Ubicación: Alicante, España | Disponibilidad: Inmediata
 ---
 
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/0xBlackCanary/0xBlackCanary/output/github-snake-dark.svg" alt="Snake animation"/>
 
 *[ 0xBlackCanary // NODE_ID: UNKNOWN // STATUS: ACTIVE // 2026 ]*
 </div>
