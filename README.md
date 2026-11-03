@@ -22,11 +22,6 @@ Apasionada por la seguridad ofensiva, la explotación de sistemas y la escalada 
 * **Escalada de Privilegios:** Técnicas tácticas para ganar control total en entornos Windows (Active Directory) y Linux.
 * **Gobernanza y Privacidad (RGPD):** Auditoría e identificación de brechas de datos de alto impacto en cumplimiento con la normativa europea.
 
-### 🔧 Stack & Herramientas
-
-##  Linux OSINT PowerShell Windows Linux Burp Suite Metasploit Git Excel
-
-
 ---
 
 ### 🔧 Stack & Herramientas
