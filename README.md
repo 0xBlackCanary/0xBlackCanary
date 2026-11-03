@@ -8,10 +8,24 @@
 
 ---
 
-### 🛡️ Sobre mí
-Profesional en transición hacia la ciberseguridad defensiva.
-Mentalidad Zero Trust. Enfoque en integridad de datos y hardening.
-Ubicación: Alicante, España | Disponibilidad: Inmediata
+### 🛡 Sobre mí
+
+> "La mejor defensa es un ataque meticulosamente ejecutado. No se trata solo de romper sistemas, sino de demostrar el impacto real de una brecha bajo normativas estrictas."
+
+Apasionada por la seguridad ofensiva, la explotación de sistemas y la escalada de privilegios con mentalidad *Zero Trust*. Mi enfoque se centra en descubrir vectores de ataque y auditar infraestructuras, combinando la fuerza técnica del **Red Team** con un profundo conocimiento en el cumplimiento del **RGPD** para evaluar el riesgo real sobre los activos críticos de información. 
+
+📍 Ubicación: Alicante, España | 💼 Disponibilidad: Inmediata
+
+### 🏹 Áreas de Enfoque Operativo
+
+* **Pentesting & Explotación:** Descubrimiento de vectores de ataque, explotación de fallos web/infraestructura y movimientos laterales.
+* **Escalada de Privilegios:** Técnicas tácticas para ganar control total en entornos Windows (Active Directory) y Linux.
+* **Gobernanza y Privacidad (RGPD):** Auditoría e identificación de brechas de datos de alto impacto en cumplimiento con la normativa europea.
+
+### 🔧 Stack & Herramientas
+
+## Kali Linux OSINT PowerShell Windows Linux Burp Suite Metasploit Git Excel
+
 
 ---
 
