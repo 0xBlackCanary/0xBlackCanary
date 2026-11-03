@@ -24,7 +24,7 @@ Apasionada por la seguridad ofensiva, la explotación de sistemas y la escalada 
 
 ### 🔧 Stack & Herramientas
 
-## Kali Linux OSINT PowerShell Windows Linux Burp Suite Metasploit Git Excel
+##  Linux OSINT PowerShell Windows Linux Burp Suite Metasploit Git Excel
 
 
 ---
@@ -34,6 +34,7 @@ Apasionada por la seguridad ofensiva, la explotación de sistemas y la escalada 
 [![OSINT](https://img.shields.io/badge/OSINT-1aff8c?style=for-the-badge&logo=searxng&logoColor=black)](https://osintframework.com/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/)
+[![Kali](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
